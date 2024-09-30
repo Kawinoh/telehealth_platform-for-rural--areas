@@ -1,0 +1,1 @@
+The Telehealth Platform is a web-based application designed to offer remote healthcare services. Users can schedule appointments with healthcare providers, manage their profiles, access resources, and view available products. The platform is integrated with social media for easy sharing and engagement, providing a responsive, user-friendly interface.
