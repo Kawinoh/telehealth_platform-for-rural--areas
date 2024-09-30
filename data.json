@@ -1,0 +1,22 @@
+{
+    "providers": [
+      {"id": 1, "name": "Ivan Secheenov"},
+      {"id": 2, "name": "David Juma"},
+      {"id": 3, "name": "Denzel Junior"}
+    ],
+    "products": [
+      {"id": 1, "name": "Product 1", "description": "Description of Product 1", "price": 1500},
+      {"id": 2, "name": "Product 2", "description": "Description of Product 2", "price": 2500}
+    ],
+    "resources": [
+      {"id": 1, "title": "Resource 1", "description": "Description of Resource 1", "url": "http://example.com/resource1"},
+      {"id": 2, "title": "Resource 2", "description": "Description of Resource 2", "url": "http://example.com/resource2"}
+    ],
+    "profile": {
+      "name": "Juma dave",
+      "bio": "Bio of Juma dave",
+      "qualifications": "Degree in Medicine",
+      "email": "juma@example.com"
+    }
+  }
+  

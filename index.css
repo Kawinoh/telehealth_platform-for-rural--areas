@@ -1,0 +1,139 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f4f4f4;
+}
+
+header {
+    background-color: #4CAF50;
+    color: white;
+    padding: 10px;
+    text-align: center;
+}
+
+nav {
+    background-color: #333;
+}
+
+nav ul {
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+    text-align: center;
+}
+
+nav ul li {
+    display: inline;
+    margin: 0;
+}
+
+nav ul li a {
+    color: white;
+    padding: 15px 20px;
+    text-decoration: none;
+    display: inline-block;
+}
+
+nav ul li a:hover {
+    background-color: #575757;
+}
+
+
+/* Main Content Styles */
+main {
+    padding: 20px;
+    max-width: 1200px;
+    margin: auto;
+    background-color: white;
+    box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+    border-radius: 5px;
+}
+
+main h2 {
+    color: #00796b; /* Teal color */
+    font-size: 2em;
+    margin-top: 0;
+}
+
+main p {
+    line-height: 1.6;
+}
+
+.feature, .testimonial {
+    margin-bottom: 20px;
+}
+
+.feature h3, .testimonial p {
+    margin-top: 0;
+}
+
+.cta-button {
+    display: inline-block;
+    background-color: #00796b;
+    color: white;
+    padding: 10px 20px;
+    text-decoration: none;
+    border-radius: 5px;
+    font-weight: bold;
+}
+
+.cta-button:hover {
+    background-color: #004d40; /* Darker Teal color */
+}
+.footer {
+    background-color: #4CAF50;
+    color: white; /* Text color */
+    padding: 20px 0; /* Padding */
+    text-align: center; /* Centered text */
+}
+
+.footer-container {
+    max-width: 1000px; /* Limit width */
+    margin: 0 auto; /* Center align */
+    padding: 0 20px; /* Padding on sides */
+}
+
+.social-icons {
+    margin-top: 10px; /* Spacing above icons */
+}
+
+.social-icons a {
+    margin: 0 10px; /* Spacing between icons */
+    font-size: 20px; /* Icon size */
+    transition: color 0.3s; /* Smooth transition on hover */
+}
+
+/* Specific colors for each icon */
+.social-icons a.facebook {
+    color: #1877F2; /* Facebook Blue */
+}
+
+.social-icons a.twitter {
+    color: #1DA1F2; /* Twitter Blue */
+}
+
+.social-icons a.instagram {
+    color: #C13584; /* Instagram Gradient */
+}
+
+.social-icons a.linkedin {
+    color: #0077B5; /* LinkedIn Blue */
+}
+
+/* Change icon colors on hover */
+.social-icons a.facebook:hover {
+    color: #1558A6; /* Darker Facebook Blue */
+}
+
+.social-icons a.twitter:hover {
+    color: #0A85D9; /* Darker Twitter Blue */
+}
+
+.social-icons a.instagram:hover {
+    color: #B12B6D; /* Darker Instagram color */
+}
+
+.social-icons a.linkedin:hover {
+    color: #005582; /* Darker LinkedIn Blue */
+}

@@ -1,0 +1,33 @@
+{
+    "appointments": [
+      {
+        "id": 1,
+        "patient_id": 101,
+        "provider_id": 2,
+        "date": "2024-09-25",
+        "time": "10:00 AM",
+        "status": "Confirmed"
+      },
+      {
+        "id": 2,
+        "patient_id": 102,
+        "provider_id": 1,
+        "date": "2024-09-26",
+        "time": "02:00 PM",
+        "status": "Pending"
+      }
+    ],
+    "available_slots": [
+      {
+        "provider_id": 1,
+        "date": "2024-09-27",
+        "times": ["09:00 AM", "02:00 PM", "04:00 PM"]
+      },
+      {
+        "provider_id": 2,
+        "date": "2024-09-27",
+        "times": ["10:00 AM", "12:00 PM", "03:00 PM"]
+      }
+    ]
+  }
+  

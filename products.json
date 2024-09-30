@@ -1,0 +1,24 @@
+{
+    "products": [
+      {
+        "id": 1,
+        "name": "Pain Relief Balm",
+        "description": "A fast-acting, natural balm for relieving muscle pain.",
+        "price": 350
+      },
+      {
+        "id": 2,
+        "name": "Vitamin C Tablets",
+        "description": "Boost your immunity with these high-potency vitamin C tablets.",
+        "price": 1500
+      },
+      {
+        "id": 3,
+        "name": "First Aid Kit",
+        "description": "Complete first aid kit for home and travel use.",
+        "price": 2500
+      }
+    ]
+  }
+
+  

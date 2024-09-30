@@ -1,0 +1,23 @@
+{
+    "resources": [
+      {
+        "id": 1,
+        "title": "Healthy Eating Guide",
+        "description": "Learn about balanced diets and how to eat healthily.",
+        "url": "https://example.com/healthy-eating"
+      },
+      {
+        "id": 2,
+        "title": "Exercise for Beginners",
+        "description": "A guide to easy-to-follow exercises for staying active.",
+        "url": "https://example.com/exercise-beginners"
+      },
+      {
+        "id": 3,
+        "title": "Mental Health Tips",
+        "description": "Expert tips on maintaining mental health during stressful times.",
+        "url": "https://example.com/mental-health-tips"
+      }
+    ]
+  }
+  

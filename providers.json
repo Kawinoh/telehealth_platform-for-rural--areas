@@ -1,0 +1,23 @@
+{
+    "providers": [
+      {
+        "id": 1,
+        "name": "Ivan Secheenov",
+        "specialty": "General Practitioner",
+        "available_times": ["09:00 AM", "02:00 PM", "04:00 PM"]
+      },
+      {
+        "id": 2,
+        "name": "David Juma",
+        "specialty": "Dermatologist",
+        "available_times": ["10:00 AM", "12:00 PM", "03:00 PM"]
+      },
+      {
+        "id": 3,
+        "name": "Denzel Junior",
+        "specialty": "Pediatrician",
+        "available_times": ["08:00 AM", "11:00 AM", "01:00 PM"]
+      }
+    ]
+  }
+  
